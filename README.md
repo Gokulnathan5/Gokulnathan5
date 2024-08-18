@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Gokulnathan
+- 👀 I’m interested in ui ux designer...
+- 🌱 I’m currently working as  ui ux designer intership...
+- 📫 How to reach me 9677615585 ...
+
+<!---
+Gokulnathan5/Gokulnathan5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
